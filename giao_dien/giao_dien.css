@@ -1,0 +1,190 @@
+
+
+body
+{
+	background : url("/eplant/hinh_anh/giaodien/Untitled.PNG");
+	background-repeat: no-repeat;
+    background-position:bottom;
+
+	border: 10px double green;
+    padding: 25px;
+
+}
+
+a
+{
+	text-decoration: none;
+ 
+}
+
+
+div.menu_ngang a 
+{
+	position: center;
+	color:#000000;
+	text-decoration: none;
+	font-size: 38px;
+	border-left-style: solid;
+	border-left-color: white;
+	border-right-style: solid;
+	border-right-color: white;
+	border-width:16px;
+	border-bottom-style: solid;
+	border-bottom-color:black;
+	border-bottom-width: 5px
+  
+  
+}
+div.menu_ngang a:hover
+{
+	color:#32CD32
+}
+div.menu_doc a 
+{
+	color:#000000;
+	font-size: 14px;
+	font-family:Palatino Linotype;
+	text-decoration:none;
+	display:list-item;
+	list-style-position:inside;
+	list-style-image: url("/eplant/hinh_anh/khac/icon.PNG");
+	 border-bottom-style:solid; 
+	 border-width: 2px;
+    border-bottom-color:green;
+
+    border-right-style: solid;
+    border-right-color: white;
+    border-right-width: 6px; 
+   
+  
+
+}
+div.menu_doc a:hover
+{
+	color:#32CD32
+}
+div.phan_trang a 
+{
+	font-size:36px;
+	margin-left:5px;
+	margin-right:5px;
+	text-decoration: none;
+	color:black;
+}
+div.phan_trang a:hover 
+{
+	color:#32CD32
+}
+
+div.xuat_toan_bo_san_pham a
+{
+	color:#000000;
+	font-size: 14px;
+	text-decoration:none;
+	display: list-item;
+	list-style-type:none;
+
+ 
+
+border: 10px solid transparent;
+    padding: 1px;   
+    border-image: url("/eplant/hinh_anh/khac/vine.png")10% round;
+    border-image-slice: 30;
+    border-image-repeat: round;
+    border-image-outset:0;
+}
+
+
+div.san_pham_trang_chu a
+{
+	  
+    color:#000000;
+	font-size: 17px;
+	font-family:Georgia;
+	text-decoration:none;
+	display: list-item;
+	list-style-type:none;
+
+ 
+
+border: 10px solid transparent;
+    padding: 1px;   
+    border-image: url("/eplant/hinh_anh/khac/vine.png")10% round;
+    border-image-slice: 30;
+    border-image-repeat: round;
+    border-image-outset:0;
+
+}
+
+
+div.moi a
+{
+  color:#000000;
+	font-size: 14px;
+	text-decoration:none;
+	display: list-item;
+	list-style-type:none;
+
+ 
+
+border: 10px solid transparent;
+    padding: 1px;   
+    border-image: url("/eplant/hinh_anh/khac/bamboo.png")10% round;
+    border-image-slice: 30;
+    border-image-repeat: round;
+    border-image-outset:0;
+
+    border-right-style: solid;
+    border-right-color: white;
+    border-right-width: 10px; 
+}
+
+div.noibat a
+{
+  color:#000000;
+	font-size: 14px;
+	text-decoration:none;
+	display: list-item;
+	list-style-type:none;
+
+ 
+
+border: 10px solid transparent;
+    padding: 1px;   
+    border-image: url("/eplant/hinh_anh/khac/bamboo.png")10% round;
+    border-image-slice: 30;
+    border-image-repeat: round;
+    border-image-outset:0;
+
+    border-right-style: solid;
+    border-right-color: white;
+    border-right-width: 10px; 
+}
+
+div.xuat a
+{
+	  
+    color:#000000;
+	font-size: 17px;
+	font-family:Georgia;
+	text-decoration:none;
+	display: list-item;
+	list-style-type:none;
+
+ 
+
+border: 10px solid transparent;
+    padding: 1px;   
+    border-image: url("/eplant/hinh_anh/khac/vine.png")10% round;
+    border-image-slice: 30;
+    border-image-repeat: round;
+    border-image-outset:0;
+
+}
+
+div.footer a
+{
+	border-top-style: solid;
+	border-color:green;
+	border-width : 5px;
+}
